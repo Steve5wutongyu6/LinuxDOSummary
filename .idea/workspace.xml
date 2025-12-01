@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fd503d5-b067-4822-b4a9-d24abc7e94a4" name="Changes" comment="20251201 首次提交，完成读取user_archive和likes相关数据，并进行清洗，输出用户活动频次点阵图和发帖分区饼图，以及用户高频词">
-      <change afterPath="$PROJECT_DIR$/data/bookmarks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/category_preferences.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/flags.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/queued_posts.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinuxDOSummary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LinuxDOSummary.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/auth_token_logs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/auth_token_logs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/auth_tokens.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/auth_tokens.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/badges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/badges.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/likes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/likes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/preferences.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/preferences.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user_archive.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/user_archive.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/visits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/visits.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
