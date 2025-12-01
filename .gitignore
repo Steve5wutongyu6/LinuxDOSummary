@@ -1,0 +1,11 @@
+data/auth_tokens.csv
+data/badges.csv
+data/bookmarks.csv
+data/category_preferences.csv
+data/flags.csv
+data/likes.csv
+data/preferences.json
+data/queued_posts.csv
+data/user_archive.csv
+data/visits.csv
+data/auth_token_logs.csv
