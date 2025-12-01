@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fd503d5-b067-4822-b4a9-d24abc7e94a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LinuxDOSummary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinuxDOSummary.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/auth_token_logs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/auth_tokens.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/badges.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/likes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/preferences.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/user_archive.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/visits.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="5fd503d5-b067-4822-b4a9-d24abc7e94a4" name="Changes" comment="20251201 首次提交，完成读取user_archive和likes相关数据，并进行清洗，输出用户活动频次点阵图和发帖分区饼图，以及用户高频词">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Steve5wutongyu6"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Steve5wutongyu6/LinuxDOSummary.git",
+    "accountId": "0c38a03d-6e05-4aba-8b95-becae52be4c4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -70,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764558501715</updated>
     </task>
+    <task id="LOCAL-00001" summary="20251201 首次提交，完成读取user_archive和likes相关数据，并进行清洗，输出用户活动频次点阵图和发帖分区饼图，以及用户高频词">
+      <option name="closed" value="true" />
+      <created>1764563222531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764563222531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20251201 首次提交，完成读取user_archive和likes相关数据，并进行清洗，输出用户活动频次点阵图和发帖分区饼图，以及用户高频词" />
+    <option name="LAST_COMMIT_MESSAGE" value="20251201 首次提交，完成读取user_archive和likes相关数据，并进行清洗，输出用户活动频次点阵图和发帖分区饼图，以及用户高频词" />
   </component>
 </project>
